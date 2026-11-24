@@ -1,0 +1,13 @@
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+.trash/
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.ckpt
+data/
