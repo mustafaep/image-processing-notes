@@ -1,6 +1,9 @@
 {
-  "attachmentFolderPath": "Gorseller",
+  "attachmentFolderPath": "Images",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Kavramlar",
-  "alwaysUpdateLinks": true
+  "newFileFolderPath": "Concepts",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "DATA/"
+  ]
 }

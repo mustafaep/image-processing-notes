@@ -1,13 +1,24 @@
+# Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .obsidian/plugins/obsidian-git/data.json
 .trash/
+
+# Private notes (English vocabulary etc.) - never pushed
+_private/
+
+# Course data (images, videos, cascades) - not mine to redistribute, too large
+DATA/
+data/
+
+# OS / Python / Jupyter
 .DS_Store
 Thumbs.db
 __pycache__/
 .ipynb_checkpoints/
+
+# Model weights
 *.pt
 *.pth
 *.ckpt
-data/
